@@ -17,6 +17,7 @@ My step dad's worst nightmare is a light being left on. He wakes in the middle o
 7. 3 Female-to-male jumper wires
 
 * Any arduino board with WiFi functionality can work.
+
 ** Must be three pin (Vin, GND, AnalogOutput)
 ### Other Requirements
 1. WPA2 Protected Network
@@ -26,11 +27,15 @@ The MKR1010 board is simply connected to a photoresistor. The photoresistor is g
 
 ## Gallery
 ![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/MKR1010.jpg)
+The pin layout of the MKR1010 and photoresistor
 ![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/MKR10102.jpg)
-![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/Photoresistor .jpg)
+The wiring of the MKR1010 and photoresistor.
+![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/Photoresistor.jpg)
+A photo of the Photoresistor used in this project.
 ![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/LightsOn.jpg)
 The red light is activated in the above picture, signalling that the light is on.
 ![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/LightsOff.jpg)
 The red light is not activated in the above picture, signalling that the light is off. The green light is on, so we are connected to the internet.
+
 This readme is in progress (as of 24/12/2018), check back in a bit and it will be completed.
 
