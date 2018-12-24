@@ -21,5 +21,8 @@ My step dad's worst nightmare is a light being left on. He wakes in the middle o
 ### Other Requirements
 1. WPA2 Protected Network
 
+### Functionality
+The MKR1010 board is simply connected to a photoresistor. The photoresistor is given 5V and is wired into an analog input, where the value is then read every 0.5 seconds. Using MQTT protocols, the sensor reading is then sent to a broker that is hosted on port 1927. The sensor reading varies from 400 - 700 in high light, and 800 - 1023 in low light. The data is posted to a topic labeled "Light", which the UNO WiFi is also subscribed to. The UNO is connected to two LED lights as shown below. The green light is on when the board is connected to the WiFi, and the red light is on when the MKR1010 is sending sensor data within the high light range (<900). 
+
 This readme is in progress (as of 23/12/2018), check back in a bit and it will be completed.
 
