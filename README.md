@@ -26,5 +26,9 @@ The MKR1010 board is simply connected to a photoresistor. The photoresistor is g
 
 ## Gallery
 ![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/MKR1010.jpg)
+![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/MKR10102.jpg)
+![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/Photoresistor.jpg)
+![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/LightsOn.jpg)
+![alt text](https://raw.githubusercontent.com/RohitKochhar/PaloAtlo/master/Public/Photos/LightsOff.jpg)
 This readme is in progress (as of 23/12/2018), check back in a bit and it will be completed.
 
